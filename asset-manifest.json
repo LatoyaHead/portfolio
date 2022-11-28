@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.845192b7.css",
+    "main.js": "/portfolio/static/js/main.df6d8bd9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog-app.jpg": "/portfolio/static/media/blog-app.9140cae1c18998c1d45f.jpg",
+    "static/media/hover-images.jpg": "/portfolio/static/media/hover-images.fa652d03fbddf7a25e6b.jpg",
+    "static/media/tribute.jpg": "/portfolio/static/media/tribute.1e90490af1f44ffe496d.jpg",
+    "static/media/profilepic.png": "/portfolio/static/media/profilepic.9044b17bbbf96779b7e2.png",
+    "static/media/website.jpg": "/portfolio/static/media/website.d1d8e794b4b981a27d6d.jpg",
+    "static/media/hangman.jpg": "/portfolio/static/media/hangman.bc9b63db57079c9ce19c.jpg",
+    "static/media/mock-portfolio.jpg": "/portfolio/static/media/mock-portfolio.6bdd524325ca96654555.jpg",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.c75f7c50c56d7e288d25.png",
+    "static/media/laptop.avif": "/portfolio/static/media/laptop.8b9defdd6af6ea58c39b.avif",
+    "static/media/email.png": "/portfolio/static/media/email.4d7a7a15fb352a1504a6.png",
+    "index.html": "/portfolio/index.html",
+    "main.845192b7.css.map": "/portfolio/static/css/main.845192b7.css.map",
+    "main.df6d8bd9.js.map": "/portfolio/static/js/main.df6d8bd9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845192b7.css",
+    "static/js/main.df6d8bd9.js"
+  ]
+}
