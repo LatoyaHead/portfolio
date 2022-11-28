@@ -24,5 +24,9 @@ export const projects = [
     img: 'hangman.jpg',
     link: 'https://latoyahead.github.io/Hangman-Game/'
   },
-
+  {
+    id: 6,
+    img: 'blog-app.jpg',
+    link: 'https://peaceful-mesa-58386.herokuapp.com/'
+  }
 ]
