@@ -13,7 +13,7 @@ const ProjectItems = ({img,link}) => {
       </div>
       <a href={link} target='_blank' rel='noreferrer'>
         <img src={require(`../../images/${img}`)} className="p-img" alt='projects' />
-        <p>This projec</p>
+        {/* <p>This projec</p> */}
       </a>
     </div>
   )

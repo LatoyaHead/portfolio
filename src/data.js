@@ -28,5 +28,10 @@ export const projects = [
     id: 6,
     img: 'blog-app.jpg',
     link: 'https://peaceful-mesa-58386.herokuapp.com/'
+  },
+  {
+    id: 7,
+    img: 'jeopardy.jpg',
+    link: 'https://frabjous-crostata-96cd22.netlify.app/'
   }
 ]
