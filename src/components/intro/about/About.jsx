@@ -12,7 +12,7 @@ const About = () => {
           </div>
       </div>
       <div className="about-r">
-        <h1 className="about-title" style={{fontSize:'70px', color: 'white'}}>About Me</h1>
+        <h1 className="about-title">About Me</h1>
         <p className="description-info">
           Hello World! My name is Latoya Head, Front-End Developer in Atlanta, Georgia. 
           I'm a recent graduate from Per Scholas(2022) Software Engineering program. 

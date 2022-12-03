@@ -7,7 +7,7 @@ import Footer from './components/footer/Footer';
 
 function App() {
   return (
-    <div style={{backgroundColor:'black'}}>
+    <div style={{backgroundColor: 'black'}}>
       <Intro />
       <About />
       <Projects/>

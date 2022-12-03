@@ -10,14 +10,13 @@
 }
 .project-title {
   color: white;
-  font-size: 80px;
+  font-size: 85px;
   font-weight: bold;
   font-weight: 600;
 }
 .project-desc {
   color: white;
   margin: 20px 0px;
-  font-weight: bold;
   font-size: 30px;
 }
 .project-list {
@@ -25,4 +24,28 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+  .project {
+    padding: 10px;
+    width: auto;
+    padding: 10px;
+  }
+  .project-text {
+    width: 100%;
+  }
+  .project-title {
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .project-desc {
+    font-size: 20px;
+  }
+
+  .project-list {
+    flex-direction: row;
+  }
 }

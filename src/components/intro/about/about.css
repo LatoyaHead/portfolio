@@ -18,7 +18,7 @@
   position: absolute;
   top: 50px;
   left: 120px;
-  background-color: rgb(19, 19, 19);
+  background-color: #333;
 }
 .about-card {
   width: 60%;
@@ -26,6 +26,10 @@
   border-radius: 30px;
   position: relative;
   overflow: hidden;
+}
+.about-title {
+  font-size: 75px;
+  color: white
 }
 .about-img {
   width: 100%;
@@ -36,4 +40,40 @@
 .description-info {
   color: white;
   font-size: 30px;
+}
+
+@media screen and (max-width: 480px) {
+.about {
+  flex-direction: column;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.description-info {
+  flex-direction: column;
+  font-size: 20px;
+  padding: 15px;
+}
+
+.about-title {
+  font-size: 45px;
+  margin: 0;
+}
+
+.about-card.bg {
+  display: none;
+}
+
+.about-l {
+  width: 100%;
+}
+
+.about-card {
+  height: 30vh;
+}
+
+.about-img {
+  position: relative;
+}
+
 }

@@ -5,7 +5,6 @@ import Email from '../../images/email.png'
 import Github from '../../images/github.png'
 import Linkedin from '../../images/linkedin.png'
 import Resume from '../../images/resume.png'
-import ContactPic from '../../images/contact.png'
 
 const Contact = () => {
   return (
@@ -14,7 +13,7 @@ const Contact = () => {
           <h1 className="contact-title">Contact</h1>
           <hr />
           <div className="contact-info">
-            <div className="contact-info-item">
+            <div className="contact-info-item" >
                 <img src={Email} alt="email" className="icon" />
                 latoya30310@gmail.com
             </div>
