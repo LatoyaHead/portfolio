@@ -1,8 +1,9 @@
 export const projects = [
+  
   {
     id: 1,
-    img: 'hover-images.jpg',
-    link: 'https://latoyahead.github.io/Hover-Images/'
+    img: 'movie.jpg',
+    link: 'https://movies-app-react-1.herokuapp.com/'
   },
   {
     id: 2,
@@ -27,11 +28,16 @@ export const projects = [
   {
     id: 6,
     img: 'blog-app.jpg',
-    link: 'https://peaceful-mesa-58386.herokuapp.com/'
+    link: 'https://blog-app-blog-app.herokuapp.com/'
   },
   {
     id: 7,
     img: 'jeopardy.jpg',
     link: 'https://frabjous-crostata-96cd22.netlify.app/'
-  }
+  },
+  {
+    id: 8,
+    img: 'hover-images.jpg',
+    link: 'https://latoyahead.github.io/Hover-Images/'
+  },
 ]
